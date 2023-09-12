@@ -32,7 +32,7 @@ This roadmap covers the skills listed on most entry-level job applications. We w
 * Handle basic data through JavaScript
 * Optimize websites for search engines
 * Learn resources to continue your education
-* APPLY FOR JOBS!
+* APPLY FOR JOBS!!!
 
 
 # Videos
