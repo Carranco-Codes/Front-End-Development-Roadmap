@@ -11,7 +11,7 @@ A computer. Really any computer. The course is taught using a Windows machine, b
 You will need to run either Windows 10 / 11 or OS X High Sierra(10.13+)
 
 # Roadmap
-This roadmap covers the skills listed on most entry-level job applications. We will only be covering the basics in each subject, but you'll find that the basics will allow you to build many things. 
+This roadmap covers the skills listed on most entry-level job applications. We will only be covering the basics in each subject, but you'll find that these basics allow you to build everything needed for your first job. 
 
 ![Front-End-Development-Roadmap](https://github.com/Carranco-Codes/Front-End-Development-Roadmap/assets/10298176/90cf739e-f178-4f9c-ad88-f756f6df3c64).
 
