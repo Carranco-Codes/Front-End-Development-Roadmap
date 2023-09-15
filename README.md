@@ -3,7 +3,7 @@
 This roadmap was created to provide guidance on what skills someone would need to enter the workforce as a front end developer.
 
 # Prerequisites
-None. This is where you begin.
+No previous experience required. This is where you begin.
 
 # Equipment
 A computer. Really any computer. The course is taught using a Windows machine, but the principles learned here apply to both Mac and Windows. Visual Studio will be what requires the most resources and they only require that you have 1 GB of RAM and a processor that is at least 1.6 Ghz.
